@@ -71,17 +71,17 @@ Pilih jalur kontribusimu:
    git checkout -b docs/contributing-guide
    ```
 5. **Kerjakan perubahannya**
-6. **Commit dengan pesan yang jelas** (lihat [Standar Commit](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/-#standar-commit))
+6. **Commit dengan pesan yang jelas** (lihat [Standar Commit](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-standar-commit))
 7. **Push ke fork kamu**
 8. **Buat Pull Request**
 
 #### 🐛 Melaporkan Bug
 
-Lihat [Cara Melaporkan Bug](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-cara-melaporkan-bug) di bawah.
+Lihat [Cara Melaporkan Bug](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-cara-melaporkan-bug-1) di bawah.
 
 #### 💡 Mengusulkan Fitur
 
-Lihat [Cara Mengusulkan Fitur](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-cara-mengusulkan-fitur) di bawah.
+Lihat [Cara Mengusulkan Fitur](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-cara-mengusulkan-fitur-1) di bawah.
 
 #### 📝 Dokumentasi
 
@@ -507,11 +507,11 @@ Choose your path:
 
 #### 🐛 Bug Reports
 
-See [Bug Reports](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-bug-reports) section below.
+See [Bug Reports](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-bug-reports-1) section below.
 
 #### 💡 Feature Requests
 
-See [Feature Requests](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-feature-requests) section below.
+See [Feature Requests](https://github.com/flessan/GDIPS/blob/main/CONTRIBUTING.md/#-feature-requests-1) section below.
 
 #### 📝 Documentation
 
