@@ -32,6 +32,22 @@
 
 ---
 
+## 🗂️ GMDIPS Repositories
+
+> ### 🏢 [Organisasi](https://github.com/gmdips)
+> *Central hub untuk semua proyek GMDIPS*
+
+> ### 🌐 [Proyek Website](https://github.com/gmdips/site)  
+> *Frontend & konten website resmi — Built with modern stack*
+
+> ### ⚙️ [Proyek Server](https://github.com/gmdips/server)  
+> *Backend, konfigurasi, dan deployment server*
+
+> ### 🎨 [Proyek Texture Pack](https://github.com/gmdips/tp)  
+> *Kustomisasi visual & asset game*
+
+---
+
 ## 🖼 Preview
 
 <div align="center">
