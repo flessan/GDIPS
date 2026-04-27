@@ -1,3 +1,10 @@
+## +_= GMDIPS Projects
+
+[![Organization](https://img.shields.io/badge/🏢-Organisasi-blue?style=for-the-badge)](https://github.com/gmdips)
+[![Website](https://img.shields.io/badge/🌐-Website-green?style=for-the-badge)](https://github.com/gmdips/site)
+[![Server](https://img.shields.io/badge/⚙️-Server-orange?style=for-the-badge)](https://github.com/gmdips/server)
+[![Texture Pack](https://img.shields.io/badge/🎨-Texture_Pack-purple?style=for-the-badge)](https://github.com/gmdips/tp)
+
 # Kode Etik GDIPS
 
 ## Janji Kami
@@ -40,8 +47,8 @@ Kode etik ini berlaku di:
 Jika kamu melihat pelanggaran:
 
 1. **Lapor ke maintainer** via DM:
-   - Discord: @fless, @zeroxy
-   - Email: fless@gdi.ps
+   - Discord: @thiosaputra, @realzeroxygmd
+   - Email: gdps.id@gmail.com
 
 2. **Atau buat issue** dengan label `conduct-report` (bisa anonim)
 
@@ -55,8 +62,8 @@ Maintainer berhak mengambil tindakan tanpa peringatan untuk kasus berat.
 ## Kontak
 
 Pertanyaan tentang kode etik? Hubungi:
-- **Discord:** @fless
-- **Email:** fless@gdi.ps
+- **Discord:** @thiosaputra
+- **Email:** flessan@yahoo.com
 
 ---
 
